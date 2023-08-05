@@ -1,7 +1,7 @@
 # Bollywood Celebrity Face Prediction
 
 ## Application Demo Page
-![bollywoodcelebrityprediction](https://github.com/S-shubham08/bollywood_celebrity_face_prediction/assets/127888794/763e0411-733e-4eda-9d7a-6e1f46e8bd88)
+![bollywoodcelebrityprediction](https://github.com/S-shubham08/bollywood_celebrity_face_prediction/assets/127888794/7e33ac43-1727-48e2-8625-1d0d73a04f97)
 
 ## Project Description
 - This project focuses on predicting Bollywood celebrity faces using the VGGFace model with the ResNet50 architecture. The VGGFace model is a deep learning model pre-trained on a large dataset of celebrity faces, and ResNet50 is used as the backbone for feature extraction.
